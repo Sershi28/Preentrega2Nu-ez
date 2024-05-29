@@ -1,0 +1,51 @@
+header{
+   
+    color: rgb(226, 43, 43);
+    
+    
+
+}
+h1{
+    display: inline;
+    text-align: left;
+}
+li{
+    display: inline;
+    text-align: end;
+    position: relative;
+    left: 82%;
+    font-size: 20px;
+    
+}
+header a{
+    color: red;
+    text-decoration: none;
+    
+}
+img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    left: 35%;
+    
+}
+h2{
+    position: relative;
+    left: 47%;
+
+}
+main{
+    
+    color: rgb(212, 0, 117);
+}
+body{
+    background-image: url(../assets/video-juegos.jpg);
+   
+    color: rgb(0, 255, 34);
+}
+h3{
+    font-size: 30px;
+}
+footer{
+    color: brown;
+}
