@@ -23,15 +23,14 @@ header a{
     
 }
 img{
-    width: 600px;
-    height: 500px;
-    position: relative;
-    left: 35%;
+     position: relative;
+    -moz-box-align: center;
     
 }
-h2{
+.games{
     position: relative;
-    left: 47%;
+    text-align: center;
+
 
 }
 main{
