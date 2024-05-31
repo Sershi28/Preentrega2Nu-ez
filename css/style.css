@@ -13,8 +13,9 @@ li{
     display: inline;
     text-align: end;
     position: relative;
-    left: 82%;
+    left: 78%;
     font-size: 20px;
+    
     
 }
 header a{
@@ -23,13 +24,21 @@ header a{
     
 }
 img{
-     position: relative;
-    -moz-box-align: center;
+     
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
     
 }
 .games{
     position: relative;
     text-align: center;
+    text-decoration: none;
+    color: darkviolet;
+
 
 
 }
@@ -39,8 +48,8 @@ main{
 }
 body{
     background-image: url(../assets/video-juegos.jpg);
-   
-    color: rgb(0, 255, 34);
+    
+    
 }
 h3{
     font-size: 30px;
