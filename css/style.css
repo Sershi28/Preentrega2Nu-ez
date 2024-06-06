@@ -1,22 +1,14 @@
-header{
-   
-    color: rgb(226, 43, 43);
-    
-    
-
+*{
+    margin: 0;
+    padding: 0;
 }
 h1{
     display: inline;
     text-align: left;
 }
-li{
-    display: inline;
-    text-align: end;
-    position: relative;
-    left: 78%;
-    font-size: 20px;
-    
-    
+
+.fondoNavbar{
+    background-color: hsl(263, 13%, 27%);
 }
 header a{
     color: red;
